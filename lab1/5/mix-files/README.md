@@ -1,0 +1,1 @@
+## A sample directory containing files of different extentions under different sub-directories
