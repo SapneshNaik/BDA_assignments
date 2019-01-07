@@ -8,6 +8,7 @@ import csv
 from collections import OrderedDict
 from itertools import islice, cycle
 
+#shift dict values left by 1 position
 def shift_dict(dct, shift):
     shift %= len(dct)
     return OrderedDict(
@@ -15,29 +16,27 @@ def shift_dict(dct, shift):
         for k, v in zip(dct.keys(), islice(cycle(dct.values()), shift, None))
     )
 
+#get an ordered states dict ( ending with constant [edit] or [Edit])
+def get_states(input_file):
+    pattern1 = re.compile(".+ \[[eE]dit\]")
+    #maintain dictinary order
+    states = OrderedDict()
+
+    #Build a dictionary of states and their respective line number occurances
+    for num, line in enumerate(input_file, 1):
+        if pattern1.match(line):
+            # print(line)
+            states.update({line.strip('\n'): (num)})
+    return states
+
 
 def main():
 
     with open('../question_n_source/state-place.txt', encoding="utf8", errors='ignore') as input_file:
 
-        pattern1 = re.compile(".+ \[[eE]dit\]")
-
-
-        #maintain dictinary order
-        states = OrderedDict()
-
-        #Build a dictionary of states and their respective line number occurances
-        lastline = 0
-        for num, line in enumerate(input_file, 1):
-            if pattern1.match(line):
-                # print(line)
-                states.update({line.strip('\n'): (num)})
-                lastline = num
-
-
+        states = get_states(input_file)
 
         #shift states dict values by 1 position so that each
-
         states_e = shift_dict(states,1)
 
         input_file.seek(0)

@@ -1,4 +1,5 @@
-#1. Read the ‘sample.txt’ file and extract the phone numbers and email ids. Extracted information need to be stored in ‘info.txt’.
+#1. Read the ‘sample.txt’ file and extract the phone numbers and email ids. 
+#Extracted information need to be stored in ‘info.txt’.
 
 import re
 
@@ -21,12 +22,6 @@ def main():
 
 		#extract all phone numbers with spaces from text
 		phone_no_spaces = re.findall("\d{2} \d{4} \d{8}", text)
-	  
-
-	# print(emails) 
-	# print(phone_no_hyphen) 
-	# print(phone_no_spaces) 
-	# print(phone_no_brackets) 
 
 	with open('info.txt', 'w') as output_file:
 
