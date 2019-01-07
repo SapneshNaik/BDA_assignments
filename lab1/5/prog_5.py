@@ -13,10 +13,11 @@ def main():
             filename, extention = os.path.splitext(name)
 
             #create extention dir if not present
-            extention = extention.strip('.')
+            extention = extention.strip('.') + "-folder"
             if not os.path.exists(extention):
                 os.makedirs(extention)
-                
+
+            #move files to respective extention dir
             os.rename(os.path.join(root, name), os.path.join(extention, name))
 
 if __name__ == "__main__":
