@@ -1,0 +1,963 @@
+state_name,place_name
+Alabama,Auburn
+Alabama,Birmingham
+Alabama,Dothan
+Alabama,Florence
+Alabama,Homewood
+Alabama,Huntsville
+Alabama,Jacksonville
+Alabama,Livingston
+Alabama,Mobile
+Alabama,Montevallo
+Alabama,Montgomery
+Alabama,Troy
+Alabama,Tuscaloosa
+Alabama,Tuskegee
+Alaska,Anchorage[14]
+Alaska,Fairbanks
+Alaska,Juneau
+Alaska,Ketchikan
+Alaska,Sitka
+Arizona,Chandler[14]
+Arizona,Flagstaff
+Arizona,Gilbert[14]
+Arizona,Glendale[14]
+Arizona,Lake Havasu City
+Arizona,Mesa[14]
+Arizona,Peoria[14]
+Arizona,Phoenix[14]
+Arizona,Prescott
+Arizona,Scottsdale[14]
+Arizona,Tempe
+Arizona,Tucson
+Arkansas,Arkadelphia
+Arkansas,Conway
+Arkansas,Fayetteville
+Arkansas,Fort Smith
+Arkansas,Jonesboro
+Arkansas,Little Rock[14]
+Arkansas,Magnolia
+Arkansas,Monticello
+Arkansas,Russellville
+Arkansas,Searcy
+California,Acton
+California,Alhambra
+California,Anaheim
+California,Angwin
+California,Antioch[14]
+California,Arcata
+California,Arden-Arcade[14]
+California,Azusa
+California,Bakersfield[14]
+California,Berkeley
+California,Burbank
+California,Camarillo
+California,Carson
+California,Cerritos
+California,Chico
+California,Chino Hills
+California,Chula Vista
+California,Claremont
+California,Clovis[14]
+California,Compton
+California,Concord[14]
+California,Corona
+California,Costa Mesa
+California,Cotati
+California,Daly City
+California,Davis
+California,Downey
+California,East Los Angeles
+California,El Cajon
+California,El Monte
+California,Elk Grove[14]
+California,Escondido
+California,Fairfield[14]
+California,Fontana
+California,Fremont[14]
+California,Fresno[14]
+California,Fullerton
+California,Garden Grove
+California,Glendale
+California,Hawthorne
+California,Hayward[14]
+California,Huntington Beach
+California,Indio
+California,Inglewood
+California,Irvine
+California,Isla Vista
+California,Lancaster
+California,La Mesa
+California,La Verne
+California,Loma Linda
+California,Long Beach
+California,Los Angeles
+California,Chatsworth
+California,Downtown Los Angeles
+California,Mid-Wilshire
+California,Pico-Union
+California,University Park
+California,Westchester
+California,Malibu
+California,Merced
+California,Modesto[14]
+California,Moreno Valley
+California,Murrieta[19]
+California,Norwalk
+California,Oakland[14]
+California,Oceanside
+California,Ontario
+California,Orange
+California,Oxnard[20]
+California,Palmdale
+California,Palo Alto
+California,Pasadena
+California,Pleasant Hill
+California,Pomona
+California,Rancho Cucamonga
+California,Redding[14]
+California,Redlands
+California,Rialto
+California,Richmond[14]
+California,Ridgecrest
+California,Riverside
+California,Rocklin
+California,Roseville[14]
+California,Sacramento :
+California,East Sacramento
+California,Oak Park
+California,Salinas[14]
+California,San Bernardino
+California,San Diego
+California,San Francisco
+California,San Jose[14]
+California,San Luis Obispo
+California,San Marcos
+California,Santa Ana
+California,Santa Barbara
+California,Santa Clara[14]
+California,Santa Clarita
+California,Santa Cruz
+California,Santa Monica
+California,Santa Rosa[14]
+California,Seaside
+California,Simi Valley
+California,Stanford
+California,Stockton[14]
+California,Sunnyvale[14]
+California,Temecula
+California,Torrance
+California,Thousand Oaks
+California,Turlock
+California,Vallejo[14]
+California,Ventura[27]
+California,Victorville
+California,Visalia[14]
+California,Westminster
+California,West Covina
+California,Whittier
+Colorado,Alamosa
+Colorado,Aurora
+Colorado,Boulder
+Colorado,Colorado Springs
+Colorado,Denver
+Colorado,Durango
+Colorado,Fort Collins
+Colorado,Golden
+Colorado,Grand Junction
+Colorado,Greeley
+Colorado,Gunnison
+Colorado,Lakewood
+Colorado,Pueblo
+Connecticut,Bridgeport
+Connecticut,Danbury
+Connecticut,East Hartford
+Connecticut,Fairfield
+Connecticut,Farmington
+Connecticut,Hamden
+Connecticut,Hartford
+Connecticut,Middletown
+Connecticut,New Britain
+Connecticut,New Haven
+Connecticut,New London
+Connecticut,Southington
+Connecticut,Stamford
+Connecticut,Storrs
+Connecticut,Waterbury
+Connecticut,Willimantic
+Connecticut,West Hartford
+Connecticut,West Haven
+Delaware,Dover
+Delaware,Newark
+Delaware,New Castle
+Delaware,Wilmington
+District of Columbia,"Washington, D.C."
+Florida,Ave Maria
+Florida,Boca Raton
+Florida,Bradenton
+Florida,Brandon
+Florida,Cape Coral
+Florida,Coral Gables
+Florida,Coral Springs
+Florida,Davie
+Florida,Daytona Beach
+Florida,DeLand
+Florida,Estero
+Florida,Fort Lauderdale
+Florida,Fort Myers
+Florida,Gainesville
+Florida,Gulfport
+Florida,Hialeah
+Florida,Hollywood
+Florida,Jacksonville
+Florida,Kendall
+Florida,Lakeland
+Florida,Miami
+Florida,Miami Gardens
+Florida,Miramar
+Florida,Panama City
+Florida,Pembroke Pines
+Florida,Pensacola
+Florida,Port St. Lucie
+Florida,Orlando
+Florida,Sarasota
+Florida,St. Augustine
+Florida,St. Leo
+Florida,St. Petersburg
+Florida,Sunrise
+Florida,Tallahassee
+Florida,Tampa
+Florida,West Palm Beach
+Georgia,Albany
+Georgia,Alpharetta
+Georgia,Athens
+Georgia,Atlanta
+Georgia,Downtown
+Georgia,Druid Hills
+Georgia,Midtown
+Georgia,Augusta
+Georgia,Blue Ridge
+Georgia,Brunswick
+Georgia,Carrollton
+Georgia,Columbus
+Georgia,Cumming
+Georgia,Dahlonega
+Georgia,Demorest
+Georgia,Fort Valley
+Georgia,Gainesville
+Georgia,Glennville
+Georgia,Kennesaw
+Georgia,Lawrenceville
+Georgia,Madison
+Georgia,Macon
+Georgia,Milledgeville
+Georgia,Monroe
+Georgia,Mount Vernon
+Georgia,Oxford
+Georgia,Rome
+Georgia,Savannah
+Georgia,Statesboro
+Georgia,Swainsboro
+Georgia,Valdosta
+Georgia,Vidalia
+Georgia,Waleska
+Georgia,Watkinsville
+Georgia,Young Harris
+Hawaii,Honolulu
+Hawaii,Laie
+Idaho,Boise
+Idaho,Caldwell
+Idaho,Lewiston
+Idaho,Moscow
+Idaho,Nampa
+Idaho,Pocatello
+Idaho,Rexburg
+Illinois,Alton
+Illinois,Aurora
+Illinois,Carbondale
+Illinois,ChampaignUrbana
+Illinois,Charleston
+Illinois,Chicago :
+Illinois,North Park
+Illinois,Roseland
+Illinois,University Village/Little Italy
+Illinois,Deerfield
+Illinois,DeKalb
+Illinois,Downers Grove
+Illinois,Edwardsville
+Illinois,Elgin
+Illinois,Evanston
+Illinois,Joliet
+Illinois,Lebanon
+Illinois,Macomb
+Illinois,Naperville
+Illinois,Normal
+Illinois,Peoria
+Illinois,River Forest
+Illinois,Rock Island
+Illinois,Rockford
+Illinois,Springfield
+Illinois,University Park
+Indiana,Angola
+Indiana,Bloomington
+Indiana,Columbus
+Indiana,Crawfordsville
+Indiana,Fort Wayne
+Indiana,Gary
+Indiana,Greencastle
+Indiana,Hanover
+Indiana,Indianapolis
+Indiana,Kokomo
+Indiana,Marion
+Indiana,Muncie
+Indiana,New Albany
+Indiana,Notre Dame
+Indiana,Oakland City
+Indiana,Richmond
+Indiana,South Bend
+Indiana,Terre Haute
+Indiana,Upland
+Indiana,Valparaiso
+Indiana,West Lafayette
+Iowa,Ames
+Iowa,Bettendorf
+Iowa,Cedar Falls
+Iowa,Cedar Rapids
+Iowa,Davenport
+Iowa,Decorah
+Iowa,Des Moines
+Iowa,Fayette
+Iowa,Grinnell
+Iowa,Indianola
+Iowa,Iowa City
+Iowa,Lamoni
+Iowa,Moline
+Iowa,Mount Vernon
+Iowa,Orange City
+Iowa,Oskaloosa
+Iowa,Sioux Center
+Iowa,Storm Lake
+Iowa,Waverly
+Kansas,Baldwin City
+Kansas,Emporia
+Kansas,Hays
+Kansas,Kansas City
+Kansas,Lawrence
+Kansas,Manhattan
+Kansas,Olathe
+Kansas,Overland Park
+Kansas,Pittsburg
+Kansas,Topeka
+Kansas,Wichita
+Kentucky,Barbourville
+Kentucky,Berea
+Kentucky,Bowling Green
+Kentucky,Campbellsville
+Kentucky,Columbia
+Kentucky,Crestview Hills
+Kentucky,Danville
+Kentucky,Frankfort
+Kentucky,Georgetown
+Kentucky,Grayson
+Kentucky,Highland Heights
+Kentucky,Lexington
+Kentucky,Louisville
+Kentucky,Midway
+Kentucky,Morehead
+Kentucky,Murray
+Kentucky,Owensboro
+Kentucky,Pikeville
+Kentucky,Richmond
+Kentucky,Williamsburg
+Kentucky,Wilmore
+Louisiana,Baton Rouge
+Louisiana,Grambling
+Louisiana,Hammond
+Louisiana,Lafayette
+Louisiana,Metairie
+Louisiana,Monroe
+Louisiana,Natchitoches
+Louisiana,New Orleans
+Louisiana,Ruston
+Louisiana,Shreveport
+Louisiana,Thibodaux
+Maine,Augusta
+Maine,Bangor
+Maine,Bar Harbor
+Maine,Biddeford
+Maine,Brunswick
+Maine,Farmington
+Maine,Fort Kent
+Maine,Gorham
+Maine,Lewiston
+Maine,Machias
+Maine,Orono
+Maine,Portland
+Maine,Presque Isle
+Maine,Waterville
+Maryland,Annapolis
+Maryland,Baltimore
+Maryland,Chestertown
+Maryland,College Park
+Maryland,Columbia
+Maryland,Cumberland
+Maryland,Emmitsburg
+Maryland,Frostburg
+Maryland,Germantown
+Maryland,Princess Anne
+Maryland,Salisbury
+Maryland,Silver Spring
+Maryland,Takoma Park
+Maryland,Towson
+Maryland,Westminster
+Massachusetts,Boston
+Massachusetts,Bridgewater
+Massachusetts,Brookline
+Massachusetts,Cambridge
+Massachusetts,Chestnut Hill
+Massachusetts,The Colleges of Worcester Consortium:
+Massachusetts,Dudley
+Massachusetts,North Grafton
+Massachusetts,Paxton
+Massachusetts,Worcester
+Massachusetts,Dartmouth
+Massachusetts,Fitchburg
+Massachusetts,The Five College Region of Western Massachusetts:
+Massachusetts,Amherst
+Massachusetts,Northampton
+Massachusetts,South Hadley
+Massachusetts,Framingham
+Massachusetts,Leicester
+Massachusetts,Lowell
+Massachusetts,Medford
+Massachusetts,Newton
+Massachusetts,North Adams
+Massachusetts,Quincy
+Massachusetts,Somerville
+Massachusetts,Springfield
+Massachusetts,Waltham
+Massachusetts,Wellesley
+Massachusetts,Westfield
+Massachusetts,Williamstown
+Michigan,Adrian
+Michigan,Albion
+Michigan,Allendale
+Michigan,Alma
+Michigan,Ann Arbor
+Michigan,Berrien Springs
+Michigan,Big Rapids
+Michigan,Dearborn
+Michigan,Detroit :
+Michigan,BostonEdison Historic District
+Michigan,Downtown
+Michigan,Fitzgerald
+Michigan,Midtown
+Michigan,University District
+Michigan,East Lansing
+Michigan,Flint
+Michigan,Genoa Township
+Michigan,Grand Rapids
+Michigan,Hillsdale
+Michigan,Holland
+Michigan,Houghton
+Michigan,Kalamazoo
+Michigan,Lansing
+Michigan,Marquette
+Michigan,Midland
+Michigan,Mount Pleasant
+Michigan,Olivet
+Michigan,Saginaw
+Michigan,Sault Ste. Marie
+Michigan,Spring Arbor
+Michigan,Sterling Heights
+Michigan,Ypsilanti
+Michigan,Warren
+Minnesota,Bemidji
+Minnesota,Crookston
+Minnesota,Duluth
+Minnesota,Faribault
+Minnesota,Mankato
+Minnesota,Marshall
+Minnesota,Minneapolis
+Minnesota,Moorhead
+Minnesota,Morris
+Minnesota,Northfield
+Minnesota,North Mankato
+Minnesota,Rochester
+Minnesota,St. Cloud
+Minnesota,St. Joseph
+Minnesota,Saint Paul
+Minnesota,St. Peter
+Minnesota,Winona
+Mississippi,Blue Mountain
+Mississippi,Cleveland
+Mississippi,Clinton
+Mississippi,Columbus
+Mississippi,Hattiesburg
+Mississippi,Holly Springs
+Mississippi,Itta Bena
+Mississippi,Jackson
+Mississippi,Laurel
+Mississippi,Oxford
+Mississippi,Southaven
+Mississippi,Starkville
+Mississippi,Tougaloo
+Missouri,Bolivar
+Missouri,Cape Girardeau
+Missouri,Columbia
+Missouri,Fayette
+Missouri,Fulton
+Missouri,Kirksville
+Missouri,Maryville
+Missouri,Rolla
+Missouri,Warrensburg
+Montana,Billings
+Montana,Bozeman
+Montana,Butte
+Montana,Dillon
+Montana,Great Falls
+Montana,Havre
+Montana,Helena
+Montana,Missoula
+Nebraska,Bellevue
+Nebraska,Chadron
+Nebraska,Crete
+Nebraska,Fremont
+Nebraska,Hastings
+Nebraska,Kearney
+Nebraska,Lincoln
+Nebraska,Omaha
+Nebraska,Peru
+Nebraska,Seward
+Nebraska,Wayne
+Nebraska,"York, Nebraska"
+Nevada,Henderson
+Nevada,Incline Village
+Nevada,Las Vegas
+Nevada,North Las Vegas
+Nevada,Reno
+New Hampshire,Concord
+New Hampshire,Durham
+New Hampshire,Hanover
+New Hampshire,Henniker
+New Hampshire,Keene
+New Hampshire,Manchester
+New Hampshire,New London
+New Hampshire,Plymouth
+New Hampshire,Rindge
+New Jersey,Ewing
+New Jersey,Jersey City
+New Jersey,Glassboro
+New Jersey,Hoboken
+New Jersey,Madison
+New Jersey,Montclair
+New Jersey,Newark
+New Jersey,New Brunswick
+New Jersey,Paterson
+New Jersey,Princeton
+New Jersey,Union
+New Jersey,West Long Branch
+New Mexico,Albuquerque
+New Mexico,Hobbs
+New Mexico,Las Cruces
+New Mexico,Las Vegas
+New Mexico,Portales
+New Mexico,Rio Rancho
+New Mexico,Silver City
+New Mexico,Socorro
+New York,Albany
+New York,Alfred
+New York,Aurora
+New York,Binghamton
+New York,Brockport
+New York,Buffalo
+New York,Canton
+New York,Clinton
+New York,Cortland
+New York,Cobleskill
+New York,Delhi
+New York,Fredonia
+New York,Geneseo
+New York,Geneva
+New York,Hamilton
+New York,Ithaca
+New York,Newburgh
+New York,New Paltz
+New York,New Rochelle
+New York,New York City
+New York,Oneonta
+New York,Oswego
+New York,Plattsburgh
+New York,Potsdam
+New York,Poughkeepsie
+New York,Purchase
+New York,Rochester
+New York,Saratoga Springs
+New York,Schenectady
+New York,Seneca Falls
+New York,Stony Brook
+New York,Syracuse
+New York,Tivoli
+New York,Troy
+New York,Valhalla
+New York,West Point
+New York,Yonkers
+North Carolina,Asheville
+North Carolina,Banner Elk
+North Carolina,Belmont
+North Carolina,Boiling Springs
+North Carolina,Boone
+North Carolina,Brevard
+North Carolina,Buies Creek
+North Carolina,Cary
+North Carolina,Chapel Hill
+North Carolina,Charlotte
+North Carolina,Cullowhee
+North Carolina,Davidson
+North Carolina,Durham
+North Carolina,Elizabeth City
+North Carolina,Elon
+North Carolina,Fayetteville
+North Carolina,Greensboro
+North Carolina,Greenville
+North Carolina,Hickory
+North Carolina,High Point
+North Carolina,Laurinburg
+North Carolina,Mars Hill
+North Carolina,Misenheimer
+North Carolina,Montreat
+North Carolina,Mount Olive
+North Carolina,Murfreesboro
+North Carolina,Pembroke
+North Carolina,Raleigh
+North Carolina,Rocky Mount
+North Carolina,Salisbury
+North Carolina,Wilmington
+North Carolina,Wilson
+North Carolina,Wingate
+North Carolina,Winston-Salem
+North Dakota,Bismarck
+North Dakota,Dickinson
+North Dakota,Fargo
+North Dakota,Grand Forks
+North Dakota,Jamestown
+North Dakota,Mayville
+North Dakota,Minot
+North Dakota,Valley City
+Ohio,Ada
+Ohio,Akron
+Ohio,Alliance
+Ohio,Ashland
+Ohio,Athens
+Ohio,Berea
+Ohio,Bluffton
+Ohio,Bowling Green
+Ohio,Cedarville
+Ohio,Cincinnati
+Ohio,Cleveland:[46]
+Ohio,Downtown
+Ohio,Fairfax
+Ohio,St. Clair-Superior
+Ohio,University Circle
+Ohio,Columbus :
+Ohio,Downtown
+Ohio,North Central neighborhood
+Ohio,University District
+Ohio,Dayton
+Ohio,Delaware
+Ohio,Fairborn
+Ohio,Findlay
+Ohio,Gambier
+Ohio,Granville
+Ohio,Hiram
+Ohio,Kent
+Ohio,Nelsonville
+Ohio,New Concord
+Ohio,Oberlin
+Ohio,Oxford
+Ohio,Perrysburg Township
+Ohio,Rio Grande
+Ohio,Springfield
+Ohio,Tiffin
+Ohio,Toledo
+Ohio,Wilberforce
+Ohio,Wooster
+Ohio,Yellow Springs
+Ohio,Youngstown
+Oklahoma,Ada
+Oklahoma,Alva
+Oklahoma,Bethany
+Oklahoma,Durant
+Oklahoma,Edmond
+Oklahoma,Goodwell
+Oklahoma,Langston
+Oklahoma,Lawton
+Oklahoma,Midwest City
+Oklahoma,Norman
+Oklahoma,Oklahoma City
+Oklahoma,Stillwater
+Oklahoma,Tahlequah
+Oklahoma,Tulsa
+Oklahoma,Weatherford
+Oregon,Ashland
+Oregon,Corvallis
+Oregon,Eugene
+Oregon,Forest Grove
+Oregon,Klamath Falls
+Oregon,La Grande
+Oregon,Lebanon
+Oregon,Marylhurst
+Oregon,McMinnville
+Oregon,Monmouth
+Oregon,Newberg
+Oregon,Portland
+Oregon,Salem
+Pennsylvania,Allentown
+Pennsylvania,Altoona
+Pennsylvania,Annville
+Pennsylvania,Bethlehem
+Pennsylvania,Bloomsburg
+Pennsylvania,Bradford
+Pennsylvania,California
+Pennsylvania,Carlisle
+Pennsylvania,"Center Township, Beaver County"
+Pennsylvania,Center Valley
+Pennsylvania,Chambersburg
+Pennsylvania,Clarion
+Pennsylvania,Collegeville
+Pennsylvania,Cresson
+Pennsylvania,Dunmore
+Pennsylvania,Easton
+Pennsylvania,East Stroudsburg
+Pennsylvania,Edinboro
+Pennsylvania,Erie
+Pennsylvania,Gettysburg
+Pennsylvania,Grantham
+Pennsylvania,Greensburg
+Pennsylvania,Grove City
+Pennsylvania,Harrisburg
+Pennsylvania,Hershey
+Pennsylvania,Huntingdon
+Pennsylvania,Indiana
+Pennsylvania,Johnstown :
+Pennsylvania,Richland Township
+Pennsylvania,Kennett Square
+Pennsylvania,Kutztown
+Pennsylvania,Lancaster
+Pennsylvania,Lemoyne
+Pennsylvania,Lewisburg
+Pennsylvania,Lock Haven
+Pennsylvania,Loretto
+Pennsylvania,Lower Merion Township
+Pennsylvania,Merion
+Pennsylvania,Mansfield
+Pennsylvania,Meadville
+Pennsylvania,Mechanicsburg
+Pennsylvania,Mont Alto
+Pennsylvania,Millersville
+Pennsylvania,New Wilmington
+Pennsylvania,North East
+Pennsylvania,Philadelphia :
+Pennsylvania,Cecil B. Moore
+Pennsylvania,Center City
+Pennsylvania,Chestnut Hill
+Pennsylvania,East Falls
+Pennsylvania,Germantown
+Pennsylvania,Logan
+Pennsylvania,Northeast Philadelphia
+Pennsylvania,Overbrook
+Pennsylvania,Rittenhouse Square
+Pennsylvania,University City
+Pennsylvania,Pittsburgh:[48]
+Pennsylvania,Central Northside
+Pennsylvania,Downtown Pittsburgh
+Pennsylvania,East Liberty
+Pennsylvania,Oakland
+Pennsylvania,Squirrel Hill
+Pennsylvania,Uptown neighborhood
+Pennsylvania,Reading
+Pennsylvania,Scranton
+Pennsylvania,Selinsgrove
+Pennsylvania,Shippensburg
+Pennsylvania,Slippery Rock
+Pennsylvania,State College
+Pennsylvania,Summerdale
+Pennsylvania,Swarthmore
+Pennsylvania,Upper Dublin Township
+Pennsylvania,Villanova
+Pennsylvania,Waynesburg
+Pennsylvania,West Chester
+Pennsylvania,Wilkes-Barre
+Pennsylvania,Williamsport
+Rhode Island,Bristol
+Rhode Island,Kingston
+Rhode Island,Newport
+Rhode Island,Providence :
+Rhode Island,College Hill
+Rhode Island,Downtown
+Rhode Island,Elmhurst
+Rhode Island,Jewelry District
+Rhode Island,Lower South Providence
+Rhode Island,Manton
+Rhode Island,Smithfield
+Rhode Island,Warwick
+South Carolina,Beaufort
+South Carolina,Central
+South Carolina,Charleston
+South Carolina,Clemson
+South Carolina,Clinton
+South Carolina,Columbia
+South Carolina,Due West
+South Carolina,Florence
+South Carolina,Greenwood
+South Carolina,North Charleston
+South Carolina,Orangeburg
+South Carolina,Rock Hill
+South Carolina,Spartanburg
+South Dakota,Aberdeen
+South Dakota,Brookings
+South Dakota,Madison
+South Dakota,Mitchell Dakota Weslyan
+South Dakota,Rapid City South Dakota School of Mines & Technology
+South Dakota,Sioux Falls
+South Dakota,Spearfish
+South Dakota,Vermillion
+Tennessee,Chattanooga
+Tennessee,Clarksville
+Tennessee,Collegedale
+Tennessee,Cookeville
+Tennessee,Harrogate
+Tennessee,Henderson
+Tennessee,Johnson City
+Tennessee,Knoxville
+Tennessee,Lebanon
+Tennessee,Martin
+Tennessee,Memphis
+Tennessee,McKenzie
+Tennessee,Memphis
+Tennessee,Murfreesboro
+Tennessee,Nashville
+Tennessee,Sewanee
+Texas,Abilene
+Texas,Alpine
+Texas,Amarillo
+Texas,Arlington
+Texas,Austin
+Texas,Beaumont
+Texas,Big Spring
+Texas,Brownsville
+Texas,Bryan
+Texas,Canyon
+Texas,Carrollton
+Texas,College Station
+Texas,Commerce
+Texas,Corpus Christi
+Texas,Dallas
+Texas,Denton
+Texas,Edinburg
+Texas,El Paso
+Texas,Fort Worth
+Texas,Galveston
+Texas,Georgetown
+Texas,Garland
+Texas,Grand Prairie
+Texas,Houston
+Texas,Huntsville
+Texas,Irving
+Texas,Keene
+Texas,Killeen
+Texas,Kingsville
+Texas,Laredo
+Texas,Lubbock
+Texas,McAllen
+Texas,McKinney
+Texas,Mesquite
+Texas,Nacogdoches
+Texas,Odessa
+Texas,Pasadena
+Texas,Pearland
+Texas,Plainview
+Texas,Plano
+Texas,Prairie View
+Texas,Richardson
+Texas,San Angelo
+Texas,San Antonio
+Texas,San Marcos
+Texas,Stephenville
+Texas,Texarkana
+Texas,Tyler
+Texas,University Park
+Texas,Waco
+Texas,Wichita Falls
+Utah,Cedar City
+Utah,Ephraim
+Utah,Logan
+Utah,Orem
+Utah,Provo
+Utah,Salt Lake City
+Utah,South Jordan
+Utah,St. George
+Vermont,Burlington
+Vermont,Castleton
+Vermont,Johnson
+Vermont,Lyndonville
+Vermont,Middlebury
+Vermont,Northfield
+Virginia,Alexandria
+Virginia,Arlington
+Virginia,Blacksburg
+Virginia,Bridgewater
+Virginia,Charlottesville
+Virginia,Chesapeake
+Virginia,Farmville
+Virginia,Fredericksburg
+Virginia,Hampton
+Virginia,Harrisonburg
+Virginia,Lexington
+Virginia,Lynchburg
+Virginia,Newport News
+Virginia,Norfolk
+Virginia,Portsmouth
+Virginia,Radford
+Virginia,Richmond
+Virginia,Virginia Beach
+Virginia,Williamsburg
+Virginia,Wise
+Washington,Bellevue
+Washington,Bellingham
+Washington,Cheney
+Washington,Ellensburg
+Washington,Lakewood
+Washington,Parkland
+Washington,Pullman
+Washington,Richland
+Washington,Seattle
+Washington,Spokane
+Washington,Tacoma
+Washington,Vancouver
+West Virginia,Athens
+West Virginia,Beckley
+West Virginia,Buckhannon
+West Virginia,Elkins
+West Virginia,Fairmont
+West Virginia,Glenville
+West Virginia,Institute
+West Virginia,Lewisburg
+West Virginia,Morgantown
+West Virginia,Shepherdstown
+West Virginia,West Liberty
+Wisconsin,Appleton
+Wisconsin,Eau Claire
+Wisconsin,Green Bay
+Wisconsin,Kenosha
+Wisconsin,La Crosse
+Wisconsin,Madison
+Wisconsin,Menomonie
+Wisconsin,Milwaukee
+Wisconsin,Oshkosh
+Wisconsin,Platteville
+Wisconsin,River Falls
+Wisconsin,Stevens Point
+Wisconsin,Waukesha
+Wisconsin,Whitewater
+Wyoming,Laramie
