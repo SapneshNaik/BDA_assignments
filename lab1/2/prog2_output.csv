@@ -13,21 +13,21 @@ Alabama,Montgomery
 Alabama,Troy
 Alabama,Tuscaloosa
 Alabama,Tuskegee
-Alaska,Anchorage[14]
+Alaska,Anchorage
 Alaska,Fairbanks
 Alaska,Juneau
 Alaska,Ketchikan
 Alaska,Sitka
-Arizona,Chandler[14]
+Arizona,Chandler
 Arizona,Flagstaff
-Arizona,Gilbert[14]
-Arizona,Glendale[14]
+Arizona,Gilbert
+Arizona,Glendale
 Arizona,Lake Havasu City
-Arizona,Mesa[14]
-Arizona,Peoria[14]
-Arizona,Phoenix[14]
+Arizona,Mesa
+Arizona,Peoria
+Arizona,Phoenix
 Arizona,Prescott
-Arizona,Scottsdale[14]
+Arizona,Scottsdale
 Arizona,Tempe
 Arizona,Tucson
 Arkansas,Arkadelphia
@@ -35,7 +35,7 @@ Arkansas,Conway
 Arkansas,Fayetteville
 Arkansas,Fort Smith
 Arkansas,Jonesboro
-Arkansas,Little Rock[14]
+Arkansas,Little Rock
 Arkansas,Magnolia
 Arkansas,Monticello
 Arkansas,Russellville
@@ -44,11 +44,11 @@ California,Acton
 California,Alhambra
 California,Anaheim
 California,Angwin
-California,Antioch[14]
+California,Antioch
 California,Arcata
-California,Arden-Arcade[14]
+California,Arden-Arcade
 California,Azusa
-California,Bakersfield[14]
+California,Bakersfield
 California,Berkeley
 California,Burbank
 California,Camarillo
@@ -58,9 +58,9 @@ California,Chico
 California,Chino Hills
 California,Chula Vista
 California,Claremont
-California,Clovis[14]
+California,Clovis
 California,Compton
-California,Concord[14]
+California,Concord
 California,Corona
 California,Costa Mesa
 California,Cotati
@@ -70,17 +70,17 @@ California,Downey
 California,East Los Angeles
 California,El Cajon
 California,El Monte
-California,Elk Grove[14]
+California,Elk Grove
 California,Escondido
-California,Fairfield[14]
+California,Fairfield
 California,Fontana
-California,Fremont[14]
-California,Fresno[14]
+California,Fremont
+California,Fresno
 California,Fullerton
 California,Garden Grove
 California,Glendale
 California,Hawthorne
-California,Hayward[14]
+California,Hayward
 California,Huntington Beach
 California,Indio
 California,Inglewood
@@ -100,59 +100,59 @@ California,University Park
 California,Westchester
 California,Malibu
 California,Merced
-California,Modesto[14]
+California,Modesto
 California,Moreno Valley
-California,Murrieta[19]
+California,Murrieta
 California,Norwalk
-California,Oakland[14]
+California,Oakland
 California,Oceanside
 California,Ontario
 California,Orange
-California,Oxnard[20]
+California,Oxnard
 California,Palmdale
 California,Palo Alto
 California,Pasadena
 California,Pleasant Hill
 California,Pomona
 California,Rancho Cucamonga
-California,Redding[14]
+California,Redding
 California,Redlands
 California,Rialto
-California,Richmond[14]
+California,Richmond
 California,Ridgecrest
 California,Riverside
 California,Rocklin
-California,Roseville[14]
+California,Roseville
 California,Sacramento :
 California,East Sacramento
 California,Oak Park
-California,Salinas[14]
+California,Salinas
 California,San Bernardino
 California,San Diego
 California,San Francisco
-California,San Jose[14]
+California,San Jose
 California,San Luis Obispo
 California,San Marcos
 California,Santa Ana
 California,Santa Barbara
-California,Santa Clara[14]
+California,Santa Clara
 California,Santa Clarita
 California,Santa Cruz
 California,Santa Monica
-California,Santa Rosa[14]
+California,Santa Rosa
 California,Seaside
 California,Simi Valley
 California,Stanford
-California,Stockton[14]
-California,Sunnyvale[14]
+California,Stockton
+California,Sunnyvale
 California,Temecula
 California,Torrance
 California,Thousand Oaks
 California,Turlock
-California,Vallejo[14]
-California,Ventura[27]
+California,Vallejo
+California,Ventura
 California,Victorville
-California,Visalia[14]
+California,Visalia
 California,Westminster
 California,West Covina
 California,Whittier
@@ -654,7 +654,7 @@ Ohio,Bluffton
 Ohio,Bowling Green
 Ohio,Cedarville
 Ohio,Cincinnati
-Ohio,Cleveland:[46]
+Ohio,Cleveland:
 Ohio,Downtown
 Ohio,Fairfax
 Ohio,St. Clair-Superior
@@ -768,7 +768,7 @@ Pennsylvania,Northeast Philadelphia
 Pennsylvania,Overbrook
 Pennsylvania,Rittenhouse Square
 Pennsylvania,University City
-Pennsylvania,Pittsburgh:[48]
+Pennsylvania,Pittsburgh:
 Pennsylvania,Central Northside
 Pennsylvania,Downtown Pittsburgh
 Pennsylvania,East Liberty
