@@ -23,8 +23,7 @@ def read_csv_as_list_dict(csv_reader, fieldnames):
         for value, fieldname in zip(row, fieldnames):
             temp_dict.update({fieldname : value})
         
-        # row_list.append(temp_dict)
-        print(temp_dict)
+        row_list.append(temp_dict)
 
     return row_list
 
@@ -32,12 +31,8 @@ def read_csv_as_list_dict(csv_reader, fieldnames):
 def write_csv_as_list_dict(fieldnames, row_list):
     with open("new.csv", "w") as new_csvfile:
         dw = csv.DictWriter(new_csvfile, delimiter=',', fieldnames=fieldnames)
-        dw.writeheader()
-
-        print(row_list)
-        # for row in row_list:
-        #     print(row)
-            # dw.writerows(row)
+        dw.writeheader()    
+        dw.writerows(row_list)
 
         print("\n New csv file created")
 
@@ -53,12 +48,11 @@ def main():
 
         row_list = read_csv_as_list_dict(csv_reader, fieldnames)
 
-        # print(fieldnames)
-        # print("\n\n")
-        # print(row_list)
+        print(fieldnames)
+        print("\n\n")
+        print(row_list)
 
         write_csv_as_list_dict(fieldnames, row_list)
-
 
 
 
